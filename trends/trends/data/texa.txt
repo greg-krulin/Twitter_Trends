@@ -1,0 +1,6 @@
+[44.949512660000003, -93.384260530000006]	1	2011-08-30 02:40:09	Bowling with @SummitBeer! — Drinking a Summit Extra Pale Ale @ Texa-Tonka Lanes — http://t.co/Oub0W2y
+[32.912624000000001, -96.638883300000003]	1	2011-08-30 02:45:46	Baylor Health Care System: Certified Medical Assistant - Health Texa... ( #GARLAND , Texas) http://t.co/9S4JLyR  #Healthcare #Jobs #Job
+[44.949446000000002, -93.384533000000005]	1	2011-08-30 02:56:43	I'm at Texa-Tonka Lanes (8200 Minnetonka Blvd, Texas Ave, Minneapolis) w/ 2 others http://t.co/amcmlQI
+[32.735962600000001, -96.275256900000002]	3	2011-09-01 05:03:01	Baylor Health Care System: Certified Medical Assistant - Health Texa... ( #TERRELL , Texas) http://t.co/TgEdPB7  #Healthcare #Jobs #Job
+[32.912624000000001, -96.638883300000003]	3	2011-09-01 06:46:36	Baylor Health Care System: Certified Medical Assistant - Health Texa... ( #GARLAND , Texas) http://t.co/vTbgSwv  #Healthcare #Jobs #Job
+[32.802954999999997, -96.769923000000006]	4	2011-09-09 00:53:04	Baylor Health Care System: Manager Service Excellence - Health Texa... ( #DALLAS , Texas) http://t.co/JDUQTGR  #BusinessMgmt #Jobs #Job
